@@ -4,6 +4,10 @@
 
 The maps-and-scenes example application illustrates how the [Esri application boilerplate](https://github.com/Esri/application-boilerplate-4x-js) can be modified to show webmaps and/or webscenes. See that repository for information about deploying applications based on the Esri application boilerplate.
 
+![Image of the maps-and-scenes application](maps-and-scenes.png "maps-and-scenes application")
+
+*Created using URL parameters webmap=082122d449ce427cab9baab377fc05df&webscene=91b46c2b162c48dba264b2190e1dbcff*
+
 ## Features
 
 ### Description of changes from the Esri application boilerplate
